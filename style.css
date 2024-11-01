@@ -1,0 +1,14 @@
+/* analog clock css */
+#qrious-section {
+	display: none;
+}
+.qr-section label {
+	margin-bottom: 15px;
+}
+.qr-section label p {
+	    margin: 10px 0px 5px 0px;
+}
+.qr-btn {
+	font-style: 14px;
+	padding: 10px 15px;
+}
